@@ -11,9 +11,7 @@ def line(array)
 end
 
 def take_a_number(array)
-  if array.length == 0 
-    puts "The line is currently empty."
-  end
+  array.push (name)
 end
 
 def now_serving
